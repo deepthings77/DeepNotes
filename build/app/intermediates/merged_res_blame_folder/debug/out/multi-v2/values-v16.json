@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.deepthings.deepnotes.app-mergeDebugResources-15:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kumaw\\.gradle\\caches\\transforms-3\\4ab0b25f2936ac957b0ca7ada1d0a013\\transformed\\core-1.10.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
