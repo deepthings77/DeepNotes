@@ -40,7 +40,7 @@ class NotesListView extends StatelessWidget {
                                 }
 
                                 },
-                                icon: Icon(Icons.delete),
+                                 icon: Icon( Icons.delete),
                             
                               ),
                             );

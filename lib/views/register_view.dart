@@ -55,7 +55,7 @@ class _RegisterViewState extends State<RegisterView> {
       child: Scaffold(
         appBar: AppBar(
           title: const Text('Register'),
-            backgroundColor: Color.fromARGB(255, 43, 43, 43),
+            backgroundColor:  Color.fromARGB(255, 43, 43, 43),
         ),
         body: Padding(
           padding: const EdgeInsets.all(16.0),

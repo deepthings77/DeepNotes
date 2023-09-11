@@ -98,7 +98,7 @@ class _CreateUpdateNoteViewState extends State<CreateUpdateNoteView> {
     return Scaffold(
       appBar: AppBar(
         title: const Text('New Note'),
-         backgroundColor: Color.fromARGB(255, 43, 43, 43),
+         backgroundColor:  Color.fromARGB(255, 43, 43, 43),
         actions: [IconButton(onPressed: () async{
 
           final text = _textController.text;
