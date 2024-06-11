@@ -22,7 +22,7 @@ Watch our demo video to see PORTAL in action:
 [![Watch the video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://youtube.com/shorts/9ET8p6Gqcps?si=Y-qfh0CWUKE8Ov2d)
 
 
-##How to Use
+## How to Use
 Authentication: Sign in to your account using your username and password.
 Create a Note: Tap on the "+" button to create a new note. Enter a title and description for your note.
 View Notes: See all your existing notes listed on the home screen.
@@ -32,7 +32,7 @@ Screenshots
 
 
 
-##Contributing
+## Contributing
 We welcome contributions from the community. If you'd like to contribute to DeepNotes, please follow these steps:
 
 Fork the repository.
@@ -42,7 +42,7 @@ Push your changes to the branch.
 Create a pull request.
 
 
-##Contact
+## Contact
 If you have any questions, suggestions, or feedback, feel free to contact us at projectsdeep7@gmail.com
 
 Thank you for using DeepNotes! Keep your thoughts organized and accessible wherever you go.
