@@ -17,7 +17,7 @@ You can download the app from the following link:
 
 ## Demo Video
 
-Watch our demo video to see PORTAL in action:
+Watch our demo video to see DeepNotes in action:
 
 [![Watch the video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://youtube.com/shorts/9ET8p6Gqcps?si=Y-qfh0CWUKE8Ov2d)
 
