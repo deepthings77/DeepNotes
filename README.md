@@ -13,7 +13,7 @@ You can download DeepNotes from the following platforms:
 
 You can download the app from the following link:
 
-[Download PORTAL](https://drive.google.com/drive/folders/1zbpuz53-TIZlc55boy2r7PS-AWDjhxXW)
+[Download DeepNotes](https://drive.google.com/drive/folders/1zbpuz53-TIZlc55boy2r7PS-AWDjhxXW)
 
 ## Demo Video
 
